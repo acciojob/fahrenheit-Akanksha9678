@@ -1,4 +1,5 @@
 function toFahrenheit(celsius) {
+	return((celsius * 1.8) + 32).toFixed(2);
  // Write your code here
 }
 
